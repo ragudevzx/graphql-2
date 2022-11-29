@@ -1,0 +1,3 @@
+class CommandsController < ApplicationController
+
+end
